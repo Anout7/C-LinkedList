@@ -1,2 +1,2 @@
-# C-SingleLinkedList
-单链表的简单实现
+# C-LinkedList
+单链表和双向循环链表的简单实现
